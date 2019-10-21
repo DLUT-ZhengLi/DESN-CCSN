@@ -43,7 +43,7 @@ Tensorflow 1.8.0
 ## Citation 
 If you find this code useful, please cite:
 
-` Xinchen Ye* et al., Deep Joint Depth Estimation and Color Correction from Monocular Underwater Images based on Unsupervised Adaptation Networks, Submitted to Pattern Recognition, Major revision. `
+` Xinchen Ye* et al., Deep Joint Depth Estimation and Color Correction from Monocular Underwater Images based on Unsupervised Adaptation Networks. `
 
 ## section  sourse code
 he source code, trained model, and some results will be available on the github if well prepared.
