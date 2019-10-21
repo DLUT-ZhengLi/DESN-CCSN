@@ -18,13 +18,19 @@ Our stacked conditional GANs architecture for joint depth estimation and color c
 ## Results
 ![](https://github.com/2017lizheng/DESN-CCSN/blob/master/images/SAN.png)
 
-*Fig. 1. Evaluation on SAN from the perspective of training details and rendering results. .(c-e) present three visual examples for clearly observing the rendering results. From top to bottom are the results from WaterGAN, ours, and the real underwater images, respectively.*
+*Fig. 1. Evaluation on SAN from the perspective of training details and rendering results. (a) and (b) show the loss curves of training process from WaterGAN and ours. (c-e) present three visual examples for clearly observing the rendering results. From top to bottom are the results from WaterGAN, ours, and the real underwater images, respectively.*
 
 ![](https://github.com/2017lizheng/DESN-CCSN/blob/master/images/TN.png)
 
 *Fig. 2. Qualitative comparison on real underwater images under different module configurations: (a)DESN or CCSN separately; (b) DESN + CCSN, (c) DESN with DA + CCSN, (d) DESN with DA + CCSN with DA, (e) DESN + CCSN with DA. The depth maps are colored with red for farther distance, while blue for closer distance. We use red rectangles to direct readers to focus on those specific areas to compare the difference under different cases.*
 
+![](https://github.com/2017lizheng/DESN-CCSN/blob/master/images/TN1.png)
 
+*Fig. 3. Qualitative comparison of depth estimation on real underwater images: (a) underwater images; Results estimated by (b) Laina et al. , and (c) Ours.*
+
+![](https://github.com/2017lizheng/DESN-CCSN/blob/master/images/TN2.png)
+
+*Fig. 4. Qualitative comparison of color correction on real underwater images: (a) underwater images. Results recovered by (b) FIP , (c) CBF , (d) R-cycle , (e) Pix2Pix , and (f) Ours.*
 
 ## Dependences
 
@@ -38,5 +44,8 @@ Tensorflow 1.8.0
 If you find this code useful, please cite:
 
 ` Xinchen Ye* et al., Deep Joint Depth Estimation and Color Correction from Monocular Underwater Images based on Unsupervised Adaptation Networks, Submitted to Pattern Recognition, Major revision. `
+
+## section  sourse code
+he source code, trained model, and some results will be available on the github if well prepared.
 
 
