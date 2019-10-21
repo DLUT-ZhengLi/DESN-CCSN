@@ -40,12 +40,15 @@ conda 4.3.30
 
 Tensorflow 1.8.0
 
+## Open Source
+
+The source code, trained model, and some results will be available on the github if well prepared.
+
 ## Citation 
 If you find this code useful, please cite:
 
 ` Xinchen Ye* et al., Deep Joint Depth Estimation and Color Correction from Monocular Underwater Images based on Unsupervised Adaptation Networks. `
 
-## section  sourse code
-The source code, trained model, and some results will be available on the github if well prepared.
+
 
 
